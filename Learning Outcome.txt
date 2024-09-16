@@ -1,0 +1,31 @@
+Learn how to use git and github
+
+Creating repositories,
+Cloning repositories,
+Creating Branches,
+Committing and reverting commits,
+Pulling and pushing changes downstream and upstream,
+Fetching,
+Merging and Renaming branches,
+Creating, reviewing merging,
+Reverting pull requests,...
+
+Connecting using HTTPS:
+cd 'Week 1 Task'/'Version Control'
+
+echo "# Version-Control-Repo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SilvernusIfoghale/Version-Control-Repo.
+git push -u origin main
+
+
+create new-branch - git branch
+
+change to new-branch - git checkout new-branch
+
+git revert commit - git log --oneline | -git revert 
+quit editor - q | - git push 
+
