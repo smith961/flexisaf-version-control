@@ -26,3 +26,6 @@ create new-branch - git branch
 
 change to new-branch - git checkout new-branch
 
+git revert commit - git log --oneline | -git revert 
+quit editor - q | - git push 
+
