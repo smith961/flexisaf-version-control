@@ -29,3 +29,6 @@ change to new-branch - git checkout new-branch
 git revert commit - git log --oneline | -git revert 
 quit editor - q | - git push 
 
+rename branch - git branch -m Dev-Silvernus | -git push origin -u Dev-Silvernus
+
+pull request was created and done on the github repository online.
