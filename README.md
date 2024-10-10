@@ -13,17 +13,17 @@ Practicing various git command and their executions
 
  - git init
  - git clone <repository-url>
- - git clone https://github.com/SilvernusIfoghale/Version-Control-Repo
+ - git clone https://github.com/smith961/flexisaf-version-control.git
 
 ## Create new-branch
 
 - git branch <branch-name>
-- git branch Dev-Silvernus
+- git branch Smitho
  
 ## Change to new-branch
 
 - git checkout <branch-name>
-- git checkout Dev-Silvernus
+- git checkout Smitho
 
  ## Committing Changes
 
@@ -59,13 +59,13 @@ Practicing various git command and their executions
 ## Merging Branches
 
 - git merge <branch-name>
-- git merge Dev-Silvernus
+- git merge Smitho
 
 ## Renaming Branches
 
 - git branch -m <new-branch-name>
-- git branch -m Dev-Silvernus
-- git push origin -u Dev-Silvernus
+- git branch -m Smitho
+- git push origin -u Smitho
 
 ## Creating Pull Requests
 
